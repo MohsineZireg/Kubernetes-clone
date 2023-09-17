@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kubernetes-clone/static/css/main.2716ca38.css",
+    "main.js": "/Kubernetes-clone/static/js/main.d0c21907.js",
+    "static/media/possibility.png": "/Kubernetes-clone/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Kubernetes-clone/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Kubernetes-clone/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Kubernetes-clone/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Kubernetes-clone/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Kubernetes-clone/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/kubernetes-logo.png": "/Kubernetes-clone/static/media/kubernetes-logo.bb56c5fb620f4ad00ac3.png",
+    "static/media/kubernetes_logo_name.png": "/Kubernetes-clone/static/media/kubernetes_logo_name.3b7cd54ddb2d3ab0b53c.png",
+    "static/media/people.png": "/Kubernetes-clone/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/Kubernetes-clone/index.html",
+    "main.2716ca38.css.map": "/Kubernetes-clone/static/css/main.2716ca38.css.map",
+    "main.d0c21907.js.map": "/Kubernetes-clone/static/js/main.d0c21907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2716ca38.css",
+    "static/js/main.d0c21907.js"
+  ]
+}
