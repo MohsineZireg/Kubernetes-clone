@@ -11,7 +11,7 @@ const Possibility = () => {
         <div className='gpt3__possibility-content'>
           <h4>Request Early Access to Get Started</h4>
           <h1 className='gradient__text'>The possibilities are <br /> beyond your imagination </h1>
-          <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+          <p>Kubernetes opens possibilities for efficient containerized application management, enabling automatic scaling and high availability across various environments. Its flexibility empowers organizations to innovate with ease.</p>
           <h4>Request Early Access</h4>
         </div>
     </div>
